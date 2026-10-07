@@ -32,7 +32,7 @@
 | Repo | About |
 |---|---|
 | [dsa](https://github.com/jarvisjacksonraj/dsa) | DS/algo implementations, LeetCode, AlgoExpert, and pattern-based practice |
-| [dsa-course-solutions](https://github.com/jarvisjacksonraj/dsa-course-solutions) | 43 Super30 interview-prep assignments by topic |
+| [s30-dsa](https://github.com/jarvisjacksonraj/s30-dsa) | 43 Super30 interview-prep assignments by topic (2023) |
 
 ## Reach me
 
